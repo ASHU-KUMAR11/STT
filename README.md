@@ -102,13 +102,7 @@ console.log(await res.json());
 
 ## 📤 Sample Response
 
-```json
-{
-  "text": "Hello, this is a speech to text transcription.",
-  "model": "whisper-large-v3",
-  "dev": "YishuGoyalCGC"
-}
-```
+
 
 ---
 
@@ -161,19 +155,12 @@ wrangler publish
 
 ## 📄 License
 
-**All Rights Reserved © 2025 — Yishu Goyal**
+**All Rights Reserved © 2025 — Ashish Kumar**
 
-This project is the intellectual property of **Yishu Goyal**.
+This project is the intellectual property of **Ashish Kumar**.
 Unauthorized copying, modification, distribution, or use is strictly prohibited.
 
----
 
-## 🧑‍💻 Developer
-**Yishu Goyal**  
-🌐 Portfolio: [yishu.vercel.app](https://yishu.vercel.app)
-💼 LinkedIn: [linkedin.com/in/yishugoyal](https://linkedin.com/in/yishugoyal)
-🐙 GitHub: [github.com/yishugoyal](https://github.com/yishugoyal)
-📧 Email: [yishugoyalbth@gmail.com](mailto:yishugoyalbth@gmail.com)
 
 ---
 
